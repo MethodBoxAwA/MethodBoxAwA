@@ -3,8 +3,8 @@ This is MethodBox ,a student of a serior hign school,I enjoy development.<br>
 If you want to play with me,try add group **391163187** in QQ.
 ## My code using
 I like .Net most :D.<br><br>
-![1](https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange) 
-![4](https://img.shields.io/badge/vue-3.0-green?style=for-the-badge&logo=vue.js&logoColor=green)![9](https://img.shields.io/badge/electron-2.0-aqua?style=for-the-badge&logo=electron&logoColor=aqua)![7](https://img.shields.io/badge/csharp-9.0-green?style=for-the-badge&logo=csharp&logoColor=green) ![5](https://img.shields.io/badge/ruby-3.1.2-red?style=for-the-badge&logo=ruby&logoColor=red)
+![1](https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange)  
+![4](https://img.shields.io/badge/vue-3.0-green?style=for-the-badge&logo=vue.js&logoColor=green) ![9](https://img.shields.io/badge/electron-2.0-aqua?style=for-the-badge&logo=electron&logoColor=aqua)![7](https://img.shields.io/badge/csharp-9.0-green?style=for-the-badge&logo=csharp&logoColor=green) ![5](https://img.shields.io/badge/ruby-3.1.2-red?style=for-the-badge&logo=ruby&logoColor=red)
 ![2](https://img.shields.io/badge/.Net%20Framework-4.7.2-blue) ![3](https://img.shields.io/badge/.Net-6.0-blue) 
 
 
